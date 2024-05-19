@@ -1,15 +1,7 @@
-:::info
+
 🚊我们的7天的旅程马上就要开始啦：欢迎各位前来的友友！
-:::
-`<a name="WELAK"></a>`
 
-# 前言
 
-之前有好多小伙伴看了我的Python以及numpy还有pandas一系列数据分析入门思维笔记，对我说感觉挺棒，感谢友友们的大力支持。但是也有不少友友问我能不能结合理论和实践，让大家按照一条系统的路径自学入门数据分析。我做了以下工作：`<br />`一、把我的几个思维笔记聚合起来，形成统一的整体，在python基础上增加SQL和数据挖掘，这样理论层面的数据分析入门就形成了Python->numpy+pandas+matplotlib->SQL->数据挖掘的理论框架->机器学习->深度学习`<br />`二、根据我的经验总结的Python快速入门方法，有哪些东西可以看，哪些东西初学阶段没必要看的。`<br />`三、相应的配套的pdf电子书为大家挑选最火的，然后赠送。`<br />`四、最适合新手练习的习题，主要是numpy、pandas、matplotlib，例如numpy100题，在做题的过程中快速学习这几个库`<br />`五、持续的可咨询。大家购买这一套服务后，可以永久免费后台咨询我。
-
-![image.png](https://cdn.nlark.com/yuque/0/2024/png/21688751/1708398391990-7b6c7df6-e884-4e02-85db-fff4008c9068.png#averageHue=%23464646&clientId=uf9fb2ed2-cd9b-4&from=paste&height=992&id=u625e4d19&originHeight=1983&originWidth=3000&originalType=binary&ratio=2&rotation=0&showTitle=false&size=2235951&status=done&style=none&taskId=u5ea3d186-3a6c-4f1e-8e19-3d4ddfaec3e&title=&width=1500)
-
-:::success
 🎯  纷繁世界中遇到的有缘人，你好，很幸运我们在这里相识，先给大家一份见面礼。`<br />`一份见面礼：计算机191本黑皮书[https://pan.baidu.com/s/1es2YgfXIZuwaNNtA2na9Hg](https://pan.baidu.com/s/1es2YgfXIZuwaNNtA2na9Hg) 提取码: gkck
 
 🦾**这个专栏是我总结了一整套较为完善的入门数据分析的理论+实践，理论是我整理的优质笔记，实践是各种练习题。不讲虚的全是干货**
