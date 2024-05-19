@@ -81,7 +81,6 @@
 
 **今日特惠109（原价399），现在刚开始出售这个专栏，每10人购买涨价10元，直到恢复原价，快联系我购买吧～**
 
-**加我微信【simons2035】，付款之后我发大家权限**![b643c09bc3bfd5d421f39c782f35d98.jpg](https://cdn.nlark.com/yuque/0/2024/jpeg/21688751/1715688641750-1ebbbcb3-2fc0-47aa-941a-83fa37039513.jpeg#averageHue=%23e99c7a&clientId=u5bb2a340-0112-4&from=paste&height=431&id=u85fa6040&originHeight=1466&originWidth=1074&originalType=binary&ratio=1&rotation=0&showTitle=false&size=135301&status=done&style=none&taskId=ua627f73b-30b6-4a41-ab5e-a802371b840&title=&width=316)
 
 **如果现在不想购买也可以关注我的公众号【攻城狮们的小屋】，进入有惊喜～**`<br />`回复【1】，领取python资料大全（超多）~`<br />`回复【2】，领取豆瓣top400本电子书~`<br />`回复【3】，领取一堆ppt模板~
 
